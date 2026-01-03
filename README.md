@@ -22,6 +22,10 @@ using command
 `npm install -g @anthropic-ai/claude-code`
 
 
+##converted calculator to scientific calculator
+
+- used claude code with bonsai to convert arithematic calculator to scientific calculator
+
 
 
 
