@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p web_app/templates web_app/static android_app)",
+      "Bash(dir:*)"
+    ]
+  }
+}
